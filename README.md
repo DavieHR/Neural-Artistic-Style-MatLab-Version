@@ -6,7 +6,7 @@ Vlfeat:http://www.vlfeat.org/   vlfeat 9.20
 
 Matconvnet: http://www.vlfeat.org/matconvnet/ 
 
-Some pictures：these picture should be pushed into ./data/images/source ./data/images/target
+Some pictures：these pictures should be pushed into ./data/images/source ./data/images/target
 
 2.Run 
 
